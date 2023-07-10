@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am passionate about software development in the areas of **web (JavaScript, TypeScript, React, Node.js)** and **AWS (web (fullstack -> amplify), serverless, event-driven architectures, media services)**. In my repo you can find contributions to various projects as well as some of my own projects.
+
+This readme will also contain links to articles and other projects in the future.
+
+
+The best way to reach me is LinkedIn: https://www.linkedin.com/in/patrickbichiou/
+
+Greetings
+Patrick
+
 <!--
 **PatrickFfm93/PatrickFfm93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
